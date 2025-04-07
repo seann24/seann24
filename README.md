@@ -9,7 +9,7 @@
 
 ###
 # 
-<img align="center" height="120" src="https://media.giphy.com/media/hcuw7hblf7SWSH8zLR/giphy.gif?cid=ecf05e47mcbvlb0r4xb1lxlybqygrkscohvhcksywcjkev0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="150" width="300" src="https://media.giphy.com/media/hcuw7hblf7SWSH8zLR/giphy.gif?cid=ecf05e47mcbvlb0r4xb1lxlybqygrkscohvhcksywcjkev0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 # 💻 My Tech Stack:
