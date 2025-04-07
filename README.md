@@ -59,3 +59,13 @@
 </picture>
 
 ###
+
+# 🎧 What I listen to while coding:
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sean ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sean%20&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
