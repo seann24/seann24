@@ -8,7 +8,7 @@
 </div>
 
 ###
-#,
+# .:
 <img align="right" height="150" src="https://media.giphy.com/media/hcuw7hblf7SWSH8zLR/giphy.gif?cid=ecf05e47mcbvlb0r4xb1lxlybqygrkscohvhcksywcjkev0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
