@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=seann24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seann24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="center" height="150" width="500" src="https://media.giphy.com/media/hcuw7hblf7SWSH8zLR/giphy.gif?cid=ecf05e47mcbvlb0r4xb1lxlybqygrkscohvhcksywcjkev0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img align="center" height="150" width="400" src="https://media.giphy.com/media/hcuw7hblf7SWSH8zLR/giphy.gif?cid=ecf05e47mcbvlb0r4xb1lxlybqygrkscohvhcksywcjkev0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
