@@ -60,6 +60,6 @@
 
 ###
 # 🎧 What I listen to while working:
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=225ipuka4tffhb4xq4euyj5ey&count={6})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=225ipuka4tffhb4xq4euyj5ey&count={6})
 
 ###
