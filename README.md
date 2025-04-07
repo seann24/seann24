@@ -63,7 +63,7 @@
 # 🎧 What I listen to while coding:
 
 <div align="center">
-  <a href="(ttps://spotify-recently-played-readme.vercel.app/api?user=225ipuka4tffhb4xq4euyj5ey">
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=225ipuka4tffhb4xq4euyj5ey)
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Souleymane%20Diabate&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
