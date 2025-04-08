@@ -59,7 +59,4 @@
 </picture>
 
 ###
-# 🎧 What I listen to while working:
-![Spotify Recently Played](https://spotify-recently-played-snowy.vercel.app/api?user=225ipuka4tffhb4xq4euyj5ey&count=5&width=600)
 
-###
